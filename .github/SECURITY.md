@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.1.x   | :white_check_mark: |
+| 8.0mac/secgurity | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
